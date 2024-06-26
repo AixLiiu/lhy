@@ -1,7 +1,7 @@
 # Setup
 title: AixLiiu
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
+description: 刘浩宇的主页
+url: https://aixliiu.github.io/lhy/
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
@@ -28,21 +28,14 @@ exclude:
   - not-pure-poole.gemspec
 
 # Optimize Jekyl SEO Tag
-twitter:
-  username: vszhub
-  card: summary
+
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: 刘浩宇
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
-google_site_verification: xxxxx
-lang: en
+    - https://blog.csdn.net/Aixlhy?type=blog
+    - https://github.com/AixLiiu
 
-sass:
-  sass_dir: _sass
-  style: :compressed
 
 # Options
 
@@ -54,6 +47,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: 刘浩宇
+  url: https://github.com/AixLiiu
+  email: 2629546774@qq.com
